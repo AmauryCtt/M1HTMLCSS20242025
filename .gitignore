@@ -1,4 +1,4 @@
-# JPEG
+une stucture HTML de base # JPEG
 *.jpg
 *.jpeg
 *.jpe
@@ -61,3 +61,11 @@
 # 3D Images
 *.3dm
 *.max
+index.html
+index.html
+index.html
+index.html
+index.html
+index.html
+.gitignore
+.gitignore
